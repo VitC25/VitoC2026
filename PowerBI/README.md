@@ -1,1 +1,1 @@
-![alt text](image.jpg)
+![images](Sales Dashboard.png)
