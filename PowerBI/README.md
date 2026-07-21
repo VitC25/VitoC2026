@@ -1,1 +1,1 @@
-![images]('images/Sales Dashboard.png')
+![images](images/Sales_Dashboard.png)
