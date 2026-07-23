@@ -1,1 +1,1 @@
-![images](images/Pokemon_Dataset.png)
+![images](images/Pokemon_Dashboard.png)
